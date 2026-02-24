@@ -1,0 +1,16 @@
+{
+  "name": "event-registration-backend",
+  "version": "1.0.0",
+  "description": "Full Stack Workshop Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.18.2",
+    "mongodb": "^4.17.2",
+    "mongoose": "^8.0.0"
+  }
+}
